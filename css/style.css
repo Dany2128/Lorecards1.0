@@ -1,0 +1,103 @@
+body {
+  background-color: rgb(58, 3, 110);
+}
+h1 {
+  font-family: "Architects Daughter", cursive;
+  font-family: "Roboto Serif", sans-serif;
+  font-size: 45px;
+  color: rgb(180, 154, 7);
+  margin-left: 600px;
+  text-decoration-line: underline;
+  text-decoration-style: double;
+}
+.section1 {
+  border: rgb(0, 0, 0) 5px solid;
+  border-radius: 30px;
+  height: 255px;
+  margin: 10px;
+}
+.section1 img {
+  border-radius: 25px;
+  width: 450px;
+  margin: -0.5px;
+  margin-bottom: -4px;
+  border: black solid 5px;
+}
+.psec1 {
+  font-family: "Architects Daughter", cursive;
+  font-family: "Roboto Serif", sans-serif;
+  color: rgb(180, 154, 7);
+  font-size: 25px;
+  position: relative;
+  bottom: 260px;
+  z-index: -1;
+  padding-left: 500px;
+  padding-right: 10px;
+}
+.section2 {
+  border: rgb(0, 0, 0) 5px solid;
+  border-radius: 30px;
+  padding: 10px;
+  margin: 10px;
+  height: 231px;
+}
+.section2 img {
+  width: 450px;
+  height: 243px;
+  border-radius: 25px;
+  margin: -11px;
+  border: black solid 5px;
+}
+.psec2 {
+  font-family: "Architects Daughter", cursive;
+  font-family: "Roboto Serif", sans-serif;
+  color: rgb(180, 154, 7);
+  font-size: 25px;
+  position: relative;
+  bottom: 260px;
+  z-index: -1;
+  padding-left: 490px;
+  padding-top: 10px;
+}
+.section3 {
+  border: rgb(0, 0, 0) 5px solid;
+  border-radius: 30px;
+  margin: 12px;
+  height: 250px;
+  padding: -10px;
+}
+.section3 img {
+  width: 450px;
+  height: 245px;
+  border-radius: 25px;
+  border: black solid 5px;
+}
+.psec3 {
+  font-family: "Architects Daughter", cursive;
+  font-family: "Roboto Serif", sans-serif;
+  color: rgb(180, 154, 7);
+  font-size: 25px;
+  position: relative;
+  bottom: 260px;
+  z-index: -1;
+  padding-left: 490px;
+}
+.topnav {
+  overflow: hidden;
+}
+.topnav a {
+  float: left;
+  color: rgb(180, 154, 7);
+  font-size: 50px;
+  border: rgb(180, 154, 7) solid 2px;
+  border-radius: 5px;
+  margin: 5px;
+  font-family: "Architects Daughter", cursive;
+  font-family: "Roboto Serif", sans-serif;
+  padding: 10px;
+  text-decoration: none;
+}
+.topnav a:hover {
+  background-color: rgb(221, 127, 3);
+  color: rgb(58, 3, 110);
+}
